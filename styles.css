@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+.hero{
+	display: flex;
+}
+
+img{
+	width:400px;
+	height:175px;
+	margin-right: 20px
+}
+
+.textArea{
+	text-align: center;
+}
+
+h1{
+	margin-top: 50%;
+	font-size: 15px;
+}
+p{
+	font-size:7px;
+}
+button{
+	margin-top: not;
+	font-size: 5px;
+	color: white;
+	background-color: red;
+	border: none;
+	border-radius: 2.5px
+	
+}
